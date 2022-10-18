@@ -52,4 +52,3 @@ frutas = ['banana', 'apple', 'pear']
 
 for fruta in frutas:
     print("you really like "+ fruta)
-    
